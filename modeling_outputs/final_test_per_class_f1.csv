@@ -1,0 +1,11 @@
+model_name,genre,f1_score
+Tuned Neural Network,blues,0.8413098236775819
+Tuned Neural Network,classical,0.9223057644110275
+Tuned Neural Network,country,0.7775061124694377
+Tuned Neural Network,disco,0.797979797979798
+Tuned Neural Network,hiphop,0.8165374677002584
+Tuned Neural Network,jazz,0.8716707021791767
+Tuned Neural Network,metal,0.9022556390977443
+Tuned Neural Network,pop,0.8481675392670157
+Tuned Neural Network,reggae,0.7971360381861575
+Tuned Neural Network,rock,0.7341772151898734
