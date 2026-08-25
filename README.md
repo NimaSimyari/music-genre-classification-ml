@@ -13,3 +13,4 @@ The project includes:
 ---
 
 ## 📂 Project Structure
+The objective is not only to achieve strong predictive performance, but also to provide a reproducible and systematic experimental pipeline for music genre classification.
